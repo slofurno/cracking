@@ -1,0 +1,1292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"userin",
+				"userinfo	*userInfo ν"
+			],
+			[
+				"wr",
+				"Write	 ƒ"
+			],
+			[
+				"user",
+				"userinfoDto	struct ʈ"
+			],
+			[
+				"book",
+				"Bookmark	struct ʈ"
+			],
+			[
+				"client",
+				"client_secret	string ν"
+			],
+			[
+				"clientse",
+				"clientsecrets	*clientSecrets ν"
+			],
+			[
+				"Client",
+				"clientSecrets	struct ʈ"
+			],
+			[
+				"un",
+				"Unmarshal	error ƒ"
+			],
+			[
+				"re",
+				"ReadFile	[]byte, error ƒ"
+			],
+			[
+				"git",
+				"github_user	*GithubUserResponse ν"
+			],
+			[
+				"userInfo",
+				"userInfos	map[string]*userInfo ν"
+			],
+			[
+				"usertok",
+				"usertoken	string ν"
+			],
+			[
+				"data",
+				"dataStore	*DataStore ν"
+			],
+			[
+				"forma",
+				"FormatUint	string ƒ"
+			],
+			[
+				"for",
+				"FormatInt	string ƒ"
+			],
+			[
+				"uint",
+				"uint64	built-in ʈ"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"p",
+				"ParseQuery	m url.Values, err error ƒ"
+			],
+			[
+				"tim",
+				"NewTimer	*time.Timer ƒ"
+			],
+			[
+				"Trivia",
+				"TriviaPlayer	struct ʈ"
+			],
+			[
+				"Spl",
+				"SplitN	[]string ƒ"
+			],
+			[
+				"new",
+				"NewTimer	*time.Timer ƒ"
+			],
+			[
+				"Tri",
+				"TriviaQuestion	struct ʈ"
+			],
+			[
+				"tri",
+				"TriviaPlayer	struct ʈ"
+			],
+			[
+				"Trivi",
+				"TriviaPlayer	struct ʈ"
+			],
+			[
+				"hand",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"sc",
+				"ScanLines	advance int, token []byte, err error ƒ"
+			],
+			[
+				"a",
+				"AddSubscription	 ƒ"
+			],
+			[
+				"userinfo",
+				"userInfo	struct ʈ"
+			],
+			[
+				"in",
+				"Inbox	chan []byte ν"
+			],
+			[
+				"Data",
+				"DataUnion	struct ʈ"
+			],
+			[
+				"Book",
+				"Bookmark	struct ʈ"
+			],
+			[
+				"us",
+				"userinfo	*userInfo ν"
+			],
+			[
+				"make",
+				"makeUuid	string ƒ"
+			],
+			[
+				"newu",
+				"newUserInfo	*userInfo ƒ"
+			],
+			[
+				"init",
+				"initUser	 ƒ"
+			],
+			[
+				"read",
+				"ReadString	line string, err error ƒ"
+			],
+			[
+				"Fp",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"O_RD",
+				"O_RDWR	 Ɩ"
+			],
+			[
+				"op",
+				"OpenFile	file *os.File, err error ƒ"
+			],
+			[
+				"auth",
+				"authParams	[]string ν"
+			],
+			[
+				"respon",
+				"Response	struct ʈ"
+			],
+			[
+				"User",
+				"UserConnection	struct ʈ"
+			],
+			[
+				"spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"sub",
+				"Subscriptions	map[string]*User ν"
+			],
+			[
+				"S",
+				"Subscriptions	map[string]*User ν"
+			],
+			[
+				"add",
+				"AddSub	 ƒ"
+			],
+			[
+				"b",
+				"Bookmarks	map[string]*Bookmark ν"
+			],
+			[
+				"header",
+				"header	[]byte ν"
+			],
+			[
+				"r",
+				"Read	string, OpCode, error ƒ"
+			],
+			[
+				"fprintf",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"fp",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"f",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"h",
+				"Handle	 ƒ"
+			],
+			[
+				"file",
+				"FileServer	http.Handler ƒ"
+			],
+			[
+				"H",
+				"Handle	 ƒ"
+			],
+			[
+				"up",
+				"UpdateBookmark	 ƒ"
+			],
+			[
+				"en",
+				"EncodeToString	string ƒ"
+			],
+			[
+				"su",
+				"subs	chan *subChange ν"
+			],
+			[
+				"s",
+				"Subscribers	map[string]*User ν"
+			],
+			[
+				"C",
+				"Command	*exec.Cmd ƒ"
+			],
+			[
+				"ha",
+				"Handle	 ƒ"
+			],
+			[
+				"Response",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Handle",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"mar",
+				"Marshal	[]byte, error ƒ"
+			],
+			[
+				"File",
+				"FileServer	http.Handler ƒ"
+			],
+			[
+				"handl",
+				"Handle	 ƒ"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ch",
+				"Char"
+			],
+			[
+				"n",
+				"nodes"
+			],
+			[
+				"sen",
+				"sentenceCount	int ν"
+			],
+			[
+				"err",
+				"error	interface ¡"
+			],
+			[
+				"sent",
+				"sentenceNumber	int ν"
+			],
+			[
+				"par",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"pa",
+				"Path	string ν"
+			],
+			[
+				"dial",
+				"DialUDP	*net.UDPConn, error ƒ"
+			],
+			[
+				"readfrom",
+				"ReadFromUDP	n int, addr *net.UDPAddr, err error ƒ"
+			],
+			[
+				"listen",
+				"ListenUDP	*net.UDPConn, error ƒ"
+			],
+			[
+				"upd",
+				"updatedMaps	 ν"
+			],
+			[
+				"tempest",
+				"Tempest	struct ʈ"
+			],
+			[
+				"st",
+				"starttime	time.Time ν"
+			],
+			[
+				"au",
+				"PlainAuth	smtp.Auth ƒ"
+			],
+			[
+				"Tempset",
+				"tempestParty	struct ʈ"
+			],
+			[
+				"tempestP",
+				"tempestParties	[]*tempestParty ν"
+			],
+			[
+				"temp",
+				"tempestParties	[]*tempestParty ν"
+			],
+			[
+				"te",
+				"tempestParties	[]*tempestParty ν"
+			],
+			[
+				"tem",
+				"tempestParty	struct ʈ"
+			],
+			[
+				"c",
+				"C	<-chan time.Time ν"
+			],
+			[
+				"Us",
+				"UserHub	struct ʈ"
+			],
+			[
+				"con",
+				"contentLength	int ν"
+			],
+			[
+				"response",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"handlefunc",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Ar",
+				"Args	[]string ƒ"
+			],
+			[
+				"srg",
+				"srgbLookup	map[uint8]float64 ν"
+			],
+			[
+				"srgb",
+				"srgbLookup	map[uint8]float64 ν"
+			],
+			[
+				"tiles",
+				"tiles"
+			],
+			[
+				"Square",
+				"SquareRatio"
+			],
+			[
+				"save",
+				"saveJPG"
+			],
+			[
+				"Sq",
+				"SquareRatio	float64 ƒ"
+			],
+			[
+				"max",
+				"maxindex	 ν"
+			],
+			[
+				"ne",
+				"nextnode	int ν"
+			],
+			[
+				"m",
+				"Merge	*AABB ƒ"
+			],
+			[
+				"cpu",
+				"NumCPU	int ƒ"
+			],
+			[
+				"col",
+				"collisions	 ν"
+			],
+			[
+				"is",
+				"IsLeaf	bool ƒ"
+			],
+			[
+				"bo",
+				"bounds	*AABB ν"
+			],
+			[
+				"squa",
+				"squares	[]*Square ν"
+			],
+			[
+				"int",
+				"Intn	int ƒ"
+			],
+			[
+				"min",
+				"MinX	float64 ν"
+			],
+			[
+				"len",
+				"len64	int ν"
+			],
+			[
+				"no",
+				"Now	time.Time ƒ"
+			],
+			[
+				"testsh",
+				"testship3	*Ship ν"
+			],
+			[
+				"flo",
+				"Float64	float64 ƒ"
+			],
+			[
+				"float",
+				"float64	built-in ʈ"
+			],
+			[
+				"t",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"Move",
+				"MoveCommand	struct ʈ"
+			],
+			[
+				"Comm",
+				"CommandType	string ʈ"
+			],
+			[
+				"test",
+				"testMove〔function〕"
+			],
+			[
+				"sel",
+				"selectedships〔variable〕"
+			],
+			[
+				"se",
+				"selectedships"
+			],
+			[
+				"sq",
+				"SquadId	int ν"
+			],
+			[
+				"_s",
+				"_squads"
+			],
+			[
+				"Web",
+				"Websocket	struct ʈ"
+			],
+			[
+				"We",
+				"Websocket	struct ʈ"
+			],
+			[
+				"connec",
+				"connectionManager	WebsocketManager ν"
+			],
+			[
+				"cp",
+				"NumCPU	int ƒ"
+			],
+			[
+				"GO",
+				"GOMAXPROCS	int ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\nfunction random_int(min, max){\n  return (Math.random()*(max-min)|0) + min;\n}\n\nvar rnd = function(){\n  return random_int(-10, 11);\n};\n\nvar arr=[];\n\nfor(var i = 0; i<1000;i++){\n  arr.push(rnd());\n}\n\nvar count = 0;\n\nfor(var i = 0;i<1000;i++){\n\n  if\n\n}\n",
+			"file": "17.8/seq.js",
+			"file_size": 276,
+			"file_write_time": 130915959958793114,
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#include <stdlib.h>\n#include <stdio.h>\n\n\nvoid print_bits(int n){\n  int i;\n  for(i = 31; i>=0;i--){\n    printf(\"%d \", (n>>i)&1);\n  }\n  printf(\"\\n\");\n\n}\n\nint main(int argc, char **args){\n\n  //char *first = args[1];\n  //long tevs = atoi(first);\n\n  //printf(\"%s parsed as %d\\n\", first, tevs);\n\n  int N = 255;\n  int M = 19;\n  int j = 6;\n  int i = 2;\n\n  print_bits(N);\n  print_bits(M);\n\n  int mask=0;\n  int k = 0;\n\n  for(k=0;k<=j-i;k++){\n    mask = (mask << 1) + 1;\n  }\n\n  printf(\"%d\\n\", mask);\n\n  int result=N&~(mask<<i);\n  print_bits(result);\n  result|=M<<i;\n\n  printf(\"%d\\n\", result);\n  print_bits(result);\n\n}\n",
+			"file": "5.1/bit.c",
+			"file_size": 654,
+			"file_write_time": 130915746633271592,
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#include <stdlib.h>\n#include <stdio.h>\n\n//typedef int(*comparer)(const void *, const void *);\n\nvoid quicksort(void *arr, int size, int start, int end,\n  int(*cmp)(const void*, const void*), void(*swp)(const void*, const void*))\n{\n  if (end<=start){\n    return;\n  }\n\n  char *tevs = arr;\n\n  char *pivot = tevs + start*size;\n\n  int i = start - 1;\n  int j = end + 1;\n\n  while(1){\n    do{\n      j--;\n    }while(cmp(tevs+j*size, pivot)>0);\n\n    do{\n      i++;\n    }while(cmp(tevs+i*size,pivot)<0);\n\n    if (i<j){\n      swp(tevs+i*size,tevs+j*size);\n    }else{\n      break;\n    }\n  }\n\n  printf(\"j = %d\\n\", j);\n  quicksort(arr,size,start,j,cmp,swp);\n  quicksort(arr,size,j + 1,end,cmp,swp);\n/*\n  for(i=1;i<len;i++){\n    r = f(tevs,(tevs+size));\n    tevs+=size;\n    printf(\"%d\\n\",r);\n  }\n  */\n\n}\n\nvoid swap(const void *a, const void *b){\n//  printf(\"swapping %d %d\\n\",*(int*)a,*(int*)b );\n  int tmp = *(int*)a;\n  *(int*)a = *(int*)b;\n  *(int*)b = tmp;\n}\n\nint compare(const void *a, const void *b)\n{\n  return *(int*)a-*(int*)b;\n}\n\nint main()\n{\n  int i;\n\n\n  unsigned int arr2[256] = {\n    0,   8, 109, 220, 222, 241, 149, 107,  75, 248, 254, 140,  16,  66 ,\n    74,  21, 211,  47,  80, 242, 154,  27, 205, 128, 161,  89,  77,  36 ,\n    95, 110,  85,  48, 212, 140, 211, 249,  22,  79, 200,  50,  28, 188 ,\n    52, 140, 202, 120,  68, 145,  62,  70, 184, 190,  91, 197, 152, 224 ,\n    149, 104,  25, 178, 252, 182, 202, 182, 141, 197,   4,  81, 181, 242 ,\n    145,  42,  39, 227, 156, 198, 225, 193, 219,  93, 122, 175, 249,   0 ,\n    175, 143,  70, 239,  46, 246, 163,  53, 163, 109, 168, 135,   2, 235 ,\n    25,  92,  20, 145, 138,  77,  69, 166,  78, 176, 173, 212, 166, 113 ,\n    94, 161,  41,  50, 239,  49, 111, 164,  70,  60,   2,  37, 171,  75 ,\n    136, 156,  11,  56,  42, 146, 138, 229,  73, 146,  77,  61,  98, 196 ,\n    135, 106,  63, 197, 195,  86,  96, 203, 113, 101, 170, 247, 181, 113 ,\n    80, 250, 108,   7, 255, 237, 129, 226,  79, 107, 112, 166, 103, 241 ,\n    24, 223, 239, 120, 198,  58,  60,  82, 128,   3, 184,  66, 143, 224 ,\n    145, 224,  81, 206, 163,  45,  63,  90, 168, 114,  59,  33, 159,  95 ,\n    28, 139, 123,  98, 125, 196,  15,  70, 194, 253,  54,  14, 109, 226 ,\n    71,  17, 161,  93, 186,  87, 244, 138,  20,  52, 123, 251,  26,  36 ,\n    17,  46,  52, 231, 232,  76,  31, 221,  84,  37, 216, 165, 212, 106 ,\n    197, 242,  98,  43,  39, 175, 254, 145, 190,  84, 118, 222, 187, 136 ,\n    120, 163, 236, 249\n};\n\n  int LEN = 9;\n  int arr[9] = {7,8,6,5,4,3,2,1,0};\n\n  for(i = 0;i<LEN;i++){\n    printf(\"%d \", arr[i]);\n  }\n  printf(\"\\n\");\n\n  quicksort(&arr,sizeof(int),0, LEN-1,compare, swap);\n\n  for(i = 0;i<LEN;i++){\n    printf(\"%d \", arr[i]);\n  }\n  printf(\"\\n\");\n\n\n  return 0;\n}\n",
+			"file": "11.0/quicksort.c",
+			"file_size": 2810,
+			"file_write_time": 130917061714269923,
+			"settings":
+			{
+				"buffer_size": 2705,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/C Improved.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 61.0,
+		"last_filter": "package disable",
+		"selected_items":
+		[
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package en",
+				"Package Control: Enable Package"
+			],
+			[
+				"GOINSTALL",
+				"GoMode: Install Binaries"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"disable pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				" ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 236.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"open \"index.html\"",
+			"open index.html",
+			"help open",
+			"open ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/js/cracking",
+		"/C/dev/js/cracking/11.0",
+		"/C/dev/js/cracking/11.1",
+		"/C/dev/js/cracking/11.2",
+		"/C/dev/js/cracking/11.3",
+		"/C/dev/js/cracking/17.8",
+		"/C/dev/js/cracking/5.1"
+	],
+	"file_history":
+	[
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/Tern.sublime-keymap",
+		"/C/dev/c/permutation/test.sh",
+		"/C/dev/c/permutation/makefile",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/Shell-Unix-Generic.sublime-settings",
+		"/C/dev/c/permutation/factoradic.c",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/dev/go/src/github.com/slofurno/gitlander/main.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks/.gitignore",
+		"/C/dev/csharp/fsharp/fplayground/Controllers/PlaygroundController.cs",
+		"/C/dev/go/src/github.com/slofurno/hello/main.go",
+		"/C/dev/go/src/github.com/slofurno/hello/ws.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks/db.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks/collection.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks/ws.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks/user.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks/main.go",
+		"/C/dev/go/src/github.com/slofurno/pub/main.go",
+		"/C/dev/go/src/github.com/slofurno/bookmarks - Copy/main.go",
+		"/C/dev/go/src/github.com/slofurno/ws.go",
+		"/C/dev/js/TempestTrackerPOE/connection.go",
+		"/C/dev/js/TempestTrackerPOE/handlers.go",
+		"/C/dev/go/src/github.com/slofurno/american-psycho/main.go",
+		"/C/dev/c/sl/test.c",
+		"/C/dev/c/sl/sl.c",
+		"/C/dev/go/src/github.com/slofurno/gitlander/readme.md",
+		"/C/dev/cpp/node-hello/hello.cc",
+		"/C/dev/cpp/perm/perm.cpp",
+		"/C/dev/c/cpp/sort.cpp",
+		"/C/dev/c/sl/sl.h",
+		"/C/dev/js/perms/tevs.js",
+		"/C/dev/c/huff/heap.c",
+		"/C/dev/js/TempestTrackerPOE/main.go",
+		"/C/dev/csharp/BareKnuckleJson/makefile",
+		"/C/dev/c/sl.c",
+		"/C/Users/slofurno/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/RYNOAQHK/sl[1].c",
+		"/D/Program Files/Steam2/steamapps/common/dota 2 beta/game/dota_addons/lee/scripts/vscripts/modifier_pudge_meat_hook_lua.lua",
+		"/C/dev/go/src/github.com/slofurno/tempest-source/main.go",
+		"/C/dev/go/src/github.com/slofurno/tempest-source/connection.go",
+		"/C/dev/go/src/github.com/slofurno/mos-challenge/handlers.go",
+		"/C/dev/go/src/github.com/slofurno/mos-challenge/mosaic.go",
+		"/C/dev/go/src/github.com/slofurno/mos-challenge/main.go",
+		"/C/dev/go/src/github.com/slofurno/am-i-alive/main.go",
+		"/C/dev/go/src/github.com/slofurno/tempest/static/index.html",
+		"/C/dev/go/src/github.com/slofurno/mmorts/commands.go",
+		"/C/dev/go/src/github.com/slofurno/mmorts/ws.go",
+		"/C/dev/go/src/github.com/slofurno/test/mail.go",
+		"/C/dev/go/src/github.com/slofurno/gank/main.go",
+		"/C/dev/go/src/github.com/slofurno/tempest/main.go",
+		"/C/dev/go/src/github.com/slofurno/mmorts/main.go",
+		"/C/dev/go/src/github.com/slofurno/ftp/main.go",
+		"/C/dev/go/src/github.com/slofurno/tempest/handlers.go",
+		"/C/dev/go/src/github.com/slofurno/downloadManager/main.go",
+		"/C/dev/go/src/github.com/stackgo/stackgo.go",
+		"/C/dev/go/src/github.com/slofurno/bvh/bvh.go",
+		"/C/Users/slofurno/Downloads/intern_hash.c",
+		"/C/Go/src/os/file.go",
+		"/C/Users/slofurno/Downloads/Minsky.1.D37/Minsky.1.D37/engine/evalGodley.cc",
+		"/C/dev/go/src/github.com/stackgo/stackgo_test.go",
+		"/C/Go/src/os/file_windows.go",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/GoSublime/Default (Windows).sublime-keymap",
+		"/C/Go/src/fmt/print.go",
+		"/C/dev/go/src/github.com/slofurno/bvh.go",
+		"/C/dev/go/src/github.com/slofurno/gomode/main.go",
+		"/C/dev/go/src/github.com/slofurno/gomode/second.go",
+		"/C/dev/go/src/github.com/go-challenges/GCSolutions/may15/extra/eujon-sellers/gochal-3/flickrFetch.go",
+		"/C/dev/go/src/github.com/go-challenges/GCSolutions/may15/extra/eujon-sellers/gochal-3/flickrImage.go",
+		"/C/dev/go/src/github.com/go-challenges/GCSolutions/may15/extra/eujon-sellers/gochal-3/mosaicBuilder.go",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/gomode/GoMode.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/C/dev/go/src/github.com/slofurno/mos-challenge/sublime.sublime-project",
+		"/C/dev/go/src/github.com/go-challenges/GCSolutions/may15/extra/steven-lofurno/mosaic.go",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/GoOracle/Default (Windows).sublime-keymap",
+		"/C/dev/go/src/github.com/go-challenges/GCSolutions/may15/extra/eujon-sellers/gochal-3/done.html",
+		"/C/dev/go/src/github.com/go-challenges/GCSolutions/may15/extra/eujon-sellers/gochal-3/main.go",
+		"/C/dev/go/src/github.com/slofurno/mmorts/test.html",
+		"/C/dev/go/src/github.com/slofurno/mmorts/units.go",
+		"/C/dev/go/src/github.com/slofurno/bvhindex.go",
+		"/C/dev/go/src/github.com/slofurno/fck.go",
+		"/C/dev/go/src/github.com/slofurno/zz.go",
+		"/C/dev/go/src/github.com/slofurno/bvh/cpu.pprof",
+		"/C/dev/jsrts/st/index.html",
+		"/C/dev/jsrts/st/hashheap.js",
+		"/C/dev/jsrts/st/minpq.js",
+		"/C/dev/jsrts/ws/ws/hook.html",
+		"/C/dev/jsrts/state/server.js",
+		"/C/dev/jsrts/state/index.html",
+		"/C/dev/jsrts/ws/ws/test.html",
+		"/C/dev/jsrts/state/state.js",
+		"/C/dev/jsrts/jumpandduck/jumpandduck/jumpandduck/index2.html",
+		"/C/dev/csharp/mmorts/test.html",
+		"/C/dev/go/src/github.com/slofurno/channeltest/main.go",
+		"/C/Users/slofurno/Desktop/test.html",
+		"/C/dev/js/devtools-perf-game/script.js",
+		"/C/Users/slofurno/AppData/Roaming/NuGet/NuGet.Config",
+		"/C/dev/fsharp/owinapi/packages/repositories.config",
+		"/C/dev/fsharp/owinapi/movie-dal/packages.config",
+		"/C/dev/go/httpserver/src/server.go",
+		"/C/Users/slofurno/Desktop/test - Copy.html",
+		"/C/Users/slofurno/Desktop/test.js",
+		"/C/Users/slofurno/Desktop/runtest.html",
+		"/C/Users/slofurno/Desktop/dbo.getNpi3_1.sql",
+		"/C/Users/slofurno/Desktop/refresh.html",
+		"/C/Users/slofurno/Desktop/Untitled 1.html",
+		"/C/dev/go/src/github.com/slofurno/mos/main.go",
+		"/C/dev/go/src/github.com/slofurno/mos/mosaic.go",
+		"/C/dev/go/src/github.com/slofurno/mos/main_test.go",
+		"/C/dev/go/src/github.com/slofurno/twod/convex.go",
+		"/C/dev/go/src/github.com/slofurno/twod/sprite.go",
+		"/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/dev/go/src/github.com/gorilla/websocket/client.go",
+		"/C/dev/go/src/github.com/slofurno/mos/static/index.html",
+		"/C/dev/go/src/github.com/gorilla/websocket/conn.go",
+		"/C/dev/go/src/github.com/slofurno/mosbackup/main.go",
+		"/C/dev/go/src/github.com/slofurno/mosbackup/xx/main.go",
+		"/C/dev/go/src/github.com/slofurno/mosbackup/mosaic.go",
+		"/C/dev/go/src/github.com/slofurno/mos/test.html",
+		"/C/Users/slofurno/Downloads/Word-1.1a-CHM-Distribution/Word 1.1a CHM Distribution/OpusEtAl/tools/src/onwait.c",
+		"/C/dev/rust/test/test.rs",
+		"/C/Users/slofurno/Downloads/Word-1.1a-CHM-Distribution/Word 1.1a CHM Distribution/Opus/tabs.c",
+		"/C/Users/slofurno/Downloads/Word-1.1a-CHM-Distribution/Word 1.1a CHM Distribution/Opus/sort.c",
+		"/C/Users/slofurno/Downloads/Word-1.1a-CHM-Distribution/Word 1.1a CHM Distribution/Opus/asm/searchn.asm"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\slofurno\\Downloads\\d2src\\d2src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"x",
+			"ctrl+\\\\",
+			"sending json",
+			"logging in as",
+			"userBookmarks",
+			"ok",
+			"subscriptions",
+			"newuser",
+			"Bookmarks",
+			"Subscriptions",
+			"Subscribers",
+			"Connections",
+			"Inbox",
+			"actor",
+			"Actor",
+			"      \n",
+			"templock",
+			"Access-Control-Allow-Origin",
+			"type mosRequest",
+			"mosRequest",
+			"panic",
+			"*/\n",
+			"println",
+			"close",
+			"ctrl+b",
+			"definition",
+			"Println",
+			"main",
+			"srgb",
+			"flickrQueryNew",
+			"Key",
+			"ctrl+d",
+			"Bounds",
+			"composes",
+			"Bounds",
+			"def",
+			"downloadAndDecode",
+			"d",
+			"D",
+			"newMosRequest",
+			"Tester",
+			"OpenFile",
+			"make",
+			"Tester",
+			"godef",
+			"ctrl+d",
+			"def",
+			"definition",
+			"def",
+			"definition",
+			"Tester",
+			"definition",
+			"nodecount",
+			"merge",
+			"end",
+			"startDataListener",
+			"dataListen",
+			"worker",
+			"imagelink",
+			"png",
+			"fi",
+			"readdir",
+			"fuck",
+			".ico",
+			"p",
+			"aLO",
+			"int32",
+			"Affiliations",
+			"and",
+			"shift",
+			"maxheight",
+			"slidein",
+			"auto-bind-demo",
+			"pages",
+			"core-toolbar",
+			"core-header-panel",
+			"icon-button",
+			"        ",
+			"start",
+			"temp",
+			"changeindent",
+			"buffer",
+			"time",
+			"console.log",
+			"switch",
+			"printBuffer",
+			"_cursorpos",
+			"console.log(",
+			"mycursor",
+			"printBuffer",
+			"console.log",
+			"_cursorpos",
+			"inputbuffer",
+			"writeArray",
+			"find_vector_intersection",
+			"\"\n",
+			"find_vector_intersection",
+			"find_vector_intersectionfind_vector_intersection",
+			"find_vector_intersection",
+			"vms_vector",
+			"indent",
+			"console.log",
+			"localtime",
+			"lastupdate",
+			"currenttime",
+			"texture",
+			"drawSprite",
+			"console.log",
+			"gl.bufferdata",
+			"vertbuffer",
+			"vertexAttribPointer",
+			"aVertexPosition",
+			"avertextransform",
+			"tempv",
+			"ks",
+			"uniformMatrix4fv",
+			"viewportWidth",
+			"solved",
+			"console.log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "17.8/seq.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "5.1/bit.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "11.0/quicksort.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								774,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/slofurno/AppData/Roaming/Sublime Text 3/Packages/User/C Improved.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\dev\\go\\src\\github.com\\go-challenges\\GCSolutions\\may15\\extra\\eujon-sellers\\gochal-3":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\am-i-alive":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\american-psycho":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\bookmarks":
+	{
+		"height": 169.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\bvh":
+	{
+		"height": 151.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\channeltest":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\downloadManager":
+	{
+		"height": 133.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\ftp":
+	{
+		"height": 136.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\gank":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\gitlander":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\hello":
+	{
+		"height": 160.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\mmorts":
+	{
+		"height": 159.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\mos-challenge":
+	{
+		"height": 133.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\pub":
+	{
+		"height": 118.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\tempest":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\tempest-source":
+	{
+		"height": 91.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\test":
+	{
+		"height": 100.0
+	},
+	"output.9o://C:\\dev\\go\\src\\github.com\\slofurno\\twod":
+	{
+		"height": 156.0
+	},
+	"output.9o://C:\\dev\\js\\TempestTrackerPOE":
+	{
+		"height": 95.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "um.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bookm",
+				"bookmark.go"
+			],
+			[
+				"db.go",
+				"db.go"
+			],
+			[
+				"eugon-sellers",
+				"github.com\\go-challenges\\GCSolutions\\may15\\extra\\eujon-sellers\\gochal-3\\done.html"
+			],
+			[
+				"test.html",
+				"github.com\\slofurno\\mmorts\\test.html"
+			],
+			[
+				"main.go",
+				"github.com\\slofurno\\mmorts\\main.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\dev\\source\\ConsoleApplication1\\ConsoleApplication1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

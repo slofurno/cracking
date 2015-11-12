@@ -34,10 +34,8 @@ void quicksort(void *arr, int size, int start, int end,
   }
 
   printf("j = %d\n", j);
-
   quicksort(arr,size,start,j,cmp,swp);
   quicksort(arr,size,j + 1,end,cmp,swp);
-
 /*
   for(i=1;i<len;i++){
     r = f(tevs,(tevs+size));

@@ -5,7 +5,7 @@ int main(int argc, char **args){
 
   if (argc !=2){
     printf("%s\n", "bad params");
-    return;
+    return -1;
   }
 
   char *s = args[1];
