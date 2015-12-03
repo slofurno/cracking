@@ -30,16 +30,24 @@ Node *find_last(Node *head, int k)
 int main (int argc, char **argv)
 {
     Node *head = NULL;
-    char *line = NULL;
-    size_t len = 0;
+    char *line = malloc(sizeof(char)*128);
+    size_t len = 128;
     int read;
     
-    while((read = getline(&line, &len, stdin) >= 0)) {
+    while((read = getline(&line, &len, stdin)) != -1) {
+        printf("read %zu chars\n", read);
+        printf("name: %s\n", line);
+
         Node *cur = malloc(sizeof(Node));
-        cur->val = malloc(sizeof(char)*(read+1));
-        sprintf(cur->val, "%s", line);
+        // +1 for \0, -1 for \n
+        char *val = malloc(sizeof(char)*read);
+        memcpy(val, line, read);
+        cur->val = val;
+        printf("read %s\n", cur->val);
+//        sprintf(cur->val, "%s", line);
         cur->next = head;
         head = cur;
+        
     }
 
     Node *cur = head;
