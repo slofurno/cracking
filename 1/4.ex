@@ -37,29 +37,32 @@ defmodule M do
     end 
   end
 
-
+  def is_palindrome(x) do
+    !(x > 1)
+  end
 end
 
-"race car"
-|> to_char_list
-|> Enum.filter(fn(x) -> x != 32 end)
-|> Enum.reduce(%{}, fn (c, a) ->
-    if Map.has_key?(a, c) do
-      Map.put(a, c, a[c]+1)
-    else
-      Map.put(a, c, 1) 
-    end
-   end)
-|> Enum.reduce(0, fn({k,v},a) ->
-      if rem(v,2) != 0 do
-        a + 1
+palindrome_check = fn(x) -> 
+  x
+  |> to_char_list
+  |> Enum.filter(fn(x) -> x != 32 end)
+  |> Enum.reduce(%{}, fn (c, a) ->
+      if Map.has_key?(a, c) do
+        Map.put(a, c, a[c]+1)
       else
-        a
+        Map.put(a, c, 1) 
       end
-    end)
-|> fn 
-    x when x > 1 -> false
-    _            -> true
-   end
-|> IO.inspect
+     end)
+  |> Enum.reduce(0, fn({k,v},a) ->
+        if rem(v,2) != 0 do
+          a + 1
+        else
+          a
+        end
+      end)
+  |> M.is_palindrome
+  |> IO.inspect
+end
 
+palindrome_check.("race car")
+palindrome_check.("raace car")
